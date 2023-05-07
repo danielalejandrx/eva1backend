@@ -1,0 +1,13 @@
+header {
+    width: 100vw;
+    height: 300px;
+
+    display: flex;
+    border: solid 1px black;
+}
+
+.title {
+    width: 1000px;
+    text-align: center;
+}
+
