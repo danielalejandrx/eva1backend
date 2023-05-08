@@ -4,7 +4,7 @@ from django.shortcuts import render
 
 def index(request):
 
-    return render(request,'template/index.html')
+    return render(request, 'template/index.html')
 
 def juegos(request):
 
